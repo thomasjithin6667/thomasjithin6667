@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Jithin</h1>
-<h3 align="center">A passionate MERN stack from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 - 📫 How to reach me **thomasjohn6667@gmail.com**
 
